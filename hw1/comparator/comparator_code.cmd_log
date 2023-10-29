@@ -1,0 +1,2 @@
+vhdtdtfi -lib work comparator_code.vhd -prj comparator -o comparator_code.spl -module comparator_code -template D:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 comparator_code.spl D:/Xilinx/14.7/ISE_DS/comparator/comparator_code.sym 

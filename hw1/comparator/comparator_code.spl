@@ -1,0 +1,10 @@
+[Inputs]
+a0
+a1
+b0
+b1
+[Outputs]
+f_b_more_a
+f_a_equal_b
+f_a_more_b
+[BiDir]

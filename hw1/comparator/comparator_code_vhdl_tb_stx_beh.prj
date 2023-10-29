@@ -1,0 +1,2 @@
+vhdl isim_temp "comparator_code.vhd"
+vhdl isim_temp "comparator_code_waveform_2.vhd"

@@ -1,0 +1,3 @@
+vhdl isim_temp "comparator_circuit.vhf"
+vhdl isim_temp "comparator_circuit_waveform.vhd"
+vhdl isim_temp "comparator_circuit_waveform_2.vhd"
